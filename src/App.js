@@ -36,7 +36,7 @@ function App() {
     <BrowserRouter>
 
     
-    <div className="h-screen overflow-y-hidden flex relative bg-main-bg dark:bg-main-dark-bg font-body">
+    <div className="lg:h-screen lg:overflow-y-hidden flex relative bg-main-bg dark:bg-main-dark-bg font-body">
     
     {/* sidebar */}
         {showMenu&&<Sidebar/>}
