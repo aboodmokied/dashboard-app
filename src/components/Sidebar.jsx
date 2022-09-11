@@ -24,7 +24,7 @@ const Sidebar = () => {
         
           
   return (
-    <div className=' w-72 sidebar fixed md:static bg-white  overflow-y-auto p-5 dark:bg-secondary-dark-bg'>
+    <div className=' w-72 sidebar fixed md:static bg-white  overflow-y-auto p-5 dark:bg-secondary-dark-bg h-screen'>
       
       <div className="logo mt-2 mb-10 flex justify-between items-center dark:text-white">
       
